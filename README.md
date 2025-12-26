@@ -1,3 +1,6 @@
+> This project is part of the applied AI work organized in:
+> https://github.com/WaSilveira/ai-life-sciences
+
 # Calculo-de-Metricas-de-Avaliacao-de-Aprendizado
 # Model Evaluation Metrics in a Health Data Context
 
